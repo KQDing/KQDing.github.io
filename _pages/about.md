@@ -14,6 +14,6 @@ Education
 ======
 2020-present  Ph.D. Biomedical Engineering, Johns Hopkins University, Baltimore, MD
 
-2018-2020  M.S.  Biomedical Engineering, Johns Hopkins University, Baltimore, MD
+2018-2020     M.S.  Biomedical Engineering, Johns Hopkins University, Baltimore, MD
 
-2014-2018  B.S. Engineering Science, Smith College, Northampton, MA
+2014-2018     B.S. Engineering Science, Smith College, Northampton, MA
