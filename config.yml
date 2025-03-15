@@ -10,11 +10,9 @@ taxonomies:
 
 menu:
     main:
-        # - name: Books
-        #   url: books/
-        #   weight: 5 
-        - name: Projects # NOTE - this is what shows up on the top right side
-          url: projects/
+        
+        - name: Research # NOTE - this is what shows up on the top right side
+          url: research/
           weight: 2
         - name: Publications
           url: publications/
@@ -22,12 +20,13 @@ menu:
         - name: News
           url: news/
           weight: 4 
-        # - name: Blog
-        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-        #   weight: 6
+        # - name: Books
+        #   url: books/
+        #   weight: 5 
+
 
 params:
-    description: "I am a PhD candidate in Biomedical Engineering at Johns Hopkins University."
+    description: "I am a PhD candidate in Biomedical Engineering at Johns Hopkins University. My research interests are sensory feedback, perception, and cortical responses in neuroprostheses and brain computer interfaces."
     author: Catherine Ding
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -42,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["Projects","courses","papers","data"]
+    MainSections: ["research","papers"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -53,15 +52,17 @@ params:
     profileMode:
           enabled: true
           title: Keqin 'Catherine' Ding
-          subtitle: "I am a PhD candidate in Biomedical Engineering at Johns Hopkins University."
+          subtitle: "I am a PhD candidate in Biomedical Engineering at Johns Hopkins University. My research interests are sensory feedback, perception, and cortical responses in neuroprostheses and brain computer interfaces."
           imageUrl: "Ding_Profile.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Projects
-              url: projects/
+            - name: Research
+              url: research/
             - name: Publications
               url: publications/
+            - name: News
+              url: news/
             # - name: Data
             #   url: data/
             # - name: Books
@@ -87,7 +88,7 @@ params:
         # - name: GitHub
         #   url: https://github.com/KQDing
         # - name: Bluesky
-        #   url: https://
+        #   url: https://bsky.app/profile/ckqding.bsky.social
 
     assets:
         disableScrollBarStyle: true
