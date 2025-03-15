@@ -27,7 +27,7 @@ menu:
         #   weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    description: "I am a PhD candidate in Biomedical Engineering at Johns Hopkins University."
     author: Catherine Ding
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -74,22 +74,20 @@ params:
               # url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: Ding_CV.pdf
+        # - name: CV
+        #   url: Ding_CV.pdf
         # - name: Email
           # url: mailto:moritz.maria.von.igelfeld@gmail.com
-        # - name: Zoom
-        #   url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        # - name: Office Hours
-        #   url: officehours/
+        # - name: Location
+        #   url: location/
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/ckqding
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=RgfF6SAAAAAJ&hl=en
-        - name: GitHub
-          url: https://github.com/KQDing
-        # - name: Twitter
-        #   url: https://twitter.com/McCallSmith
+        # - name: GitHub
+        #   url: https://github.com/KQDing
+        # - name: Bluesky
+        #   url: https://
 
     assets:
         disableScrollBarStyle: true
@@ -97,7 +95,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Catherine Ding"
       icon: favicon.ico
       iconHeight: 18
 
