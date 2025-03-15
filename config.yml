@@ -13,14 +13,14 @@ menu:
         # - name: Books
         #   url: books/
         #   weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Projects # NOTE - this is what shows up on the top right side
+          url: projects/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Publications
+          url: publications/
           weight: 3
-        - name: Data
-          url: data/
+        - name: News
+          url: news/
           weight: 4 
         # - name: Blog
         #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
@@ -59,9 +59,9 @@ params:
           imageHeight: 160
           buttons:
             - name: Projects
-              url: Projects/
+              url: projects/
             - name: Publications
-              url: Publications/
+              url: publications/
             # - name: Data
             #   url: data/
             # - name: Books
