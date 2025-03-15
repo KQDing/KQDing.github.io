@@ -10,9 +10,9 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
+        # - name: Books
+        #   url: books/
+        #   weight: 5 
         - name: Papers
           url: papers/
           weight: 2
@@ -22,9 +22,9 @@ menu:
         - name: Data
           url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        # - name: Blog
+        #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        #   weight: 6
 
 params:
     description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
@@ -54,28 +54,28 @@ params:
           enabled: true
           title: Keqin 'Catherine' Ding
           subtitle: "I am a PhD candidate in Biomedical Engineering at Johns Hopkins University."
-          imageUrl: "picture.jpeg"
+          imageUrl: "Ding_Profile.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
+            - name: Projects
+              url: Projects/
+            - name: Publications
+              url: Publications/
+            # - name: Data
+            #   url: data/
+            # - name: Books
+            #   url: books/
+            # - name: Tags
+            #   url: tags/
+            # - name: Archive
+            #   url: archive/
             # - name: Blog
               # url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        # - name: CV
-          # url: cv.pdf
+        - name: CV
+          url: Ding_CV.pdf
         # - name: Email
           # url: mailto:moritz.maria.von.igelfeld@gmail.com
         # - name: Zoom
@@ -85,11 +85,11 @@ params:
         # - name: Office Hours
         #   url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=RgfF6SAAAAAJ&hl=en
         - name: GitHub
           url: https://github.com/KQDing
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+        # - name: Twitter
+        #   url: https://twitter.com/McCallSmith
 
     assets:
         disableScrollBarStyle: true
