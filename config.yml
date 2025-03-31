@@ -11,8 +11,8 @@ taxonomies:
 menu:
     main:
         
-        - name: Research # NOTE - this is what shows up on the top right side
-          url: research/
+        - name: Projects # NOTE - this is what shows up on the top right side
+          url: projects/
           weight: 2
         - name: Publications
           url: publications/
@@ -62,8 +62,8 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Research
-              url: research/
+            - name: Projects
+              url: projects/
             - name: Publications
               url: publications/
             - name: News
