@@ -26,7 +26,8 @@ menu:
 
 
 params:
-    description: "I am a PhD candidate in Biomedical Engineering at Johns Hopkins University. My research focuses on studying the integration of artificial tactile sensations for advancing neural prostheses and human-machine interfaces."
+    description: "I am a PhD candidate in Biomedical Engineering at Johns Hopkins University. I specialize in sensory neural prostheses and neural signal processing. I develop computational methods to understand how the brain adapts to artificial sensory inputs and quantify the spatial reliability of neural stimulation percept maps for functional use. 
+            My work has applications in brain-computer interfaces, human-machine interaction, and neuromodulation."
     author: Catherine Ding
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -52,11 +53,12 @@ params:
     profileMode:
           enabled: true
           title: Keqin 'Catherine' Ding
-          subtitle: "I am currently a PhD candidate in Biomedical Engineering supervised by Dr. [<u>Nitish Thakor</u>](https://www.bme.jhu.edu/people/faculty/nitish-v-thakor/) at the Johns Hopkins University (<em>expected graduation: 12/2025</em>). 
+          subtitle: "
+            I am a PhD candidate in Biomedical Engineering at Johns Hopkins University, advised by Dr. [<u>Nitish Thakor</u>](https://www.bme.jhu.edu/people/faculty/nitish-v-thakor/) (<em>expected graduation: 12/2025</em>). 
+            I specialize in **neural signal analysis**, **computational modeling**, and **network-based methods** to study sensory neural prostheses.
             <br><br>
-            
-            My research focuses on studying the **integration of artificial tactile sensations** for advancing neural prostheses and human-machine interfaces. 
-            My thesis involves developing computational techniques to investigate the spatial stability of sensory stimulation, and using network methods to understand cortical responses to sensory stimulation.
+            My research integrates techniques from **data science**, **network analysis**, and **neuroscience** to understand how the brain adapts to artificial sensory inputs and quantify the spatial reliability of neural stimulation percept maps.
+            My work supports advancements in <u>brain-computer interfaces</u>, <u>neuromodulation</u>, <u>human-machine interaction</u>, and <u>human-centered technologies</u>.
             "
           imageUrl: "Ding_Profile.jpg"
           imageWidth: 160
@@ -77,13 +79,13 @@ params:
             # - name: Archive
             #   url: archive/
             # - name: Blog
-              # url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              # url: 
 
     socialIcons:
         # - name: CV
         #   url: Ding_CV.pdf
         # - name: Email
-          # url: mailto:moritz.maria.von.igelfeld@gmail.com
+          # url: mailto:
         # - name: Location
         #   url: location/
         - name: LinkedIn
@@ -91,9 +93,9 @@ params:
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=RgfF6SAAAAAJ&hl=en
         # - name: GitHub
-        #   url: https://github.com/KQDing
+        #   url: 
         # - name: Bluesky
-        #   url: https://bsky.app/profile/ckqding.bsky.social
+        #   url: 
 
     assets:
         disableScrollBarStyle: true

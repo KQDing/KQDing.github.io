@@ -1,10 +1,12 @@
 ---
-title: "Recent News"
+title: "News"
 description: ""
 ---
 
 
-## Recent News <span style="color: gray;">(last 12 months)</span>
+# News 
+---
+## <span style="color: gray;">(last 18 months)</span>
 
 * <span style="color: gray;">[March 2025]</span> I received a **Travel Award** for the 11th International Brain-Computer Interface (BCI) Society Meeting.
 <br> <br>

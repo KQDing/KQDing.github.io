@@ -124,10 +124,10 @@
   </url><url>
     <loc>http://localhost:1313/archive/</loc>
   </url><url>
-    <loc>http://localhost:1313/publications/</loc>
-  </url><url>
     <loc>http://localhost:1313/news/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/publications/</loc>
   </url>
 </urlset>
