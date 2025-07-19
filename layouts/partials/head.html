@@ -61,6 +61,8 @@
 {{- else }}
 <link crossorigin="anonymous" href="{{ $stylesheet.RelPermalink }}" rel="preload stylesheet" as="style">
 {{- end }}
+<!-- Add your custom CSS here, outside conditionals -->
+<link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
 
 {{- /* Search */}}
 {{- if (eq .Layout `search`) -}}

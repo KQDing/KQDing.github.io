@@ -19,10 +19,18 @@ My projects contribute to advancing neural prostheses, brain-computer interfaces
 
 ## Computational techniques for sensory stimulation percept maps
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <img src="/Fig_P1-01.png" alt="alt text" width="350">
-  <p>Electrical stimulation to the nerve, spinal cord, or cortical tissue creates tactile percepts in the missing or paralyzed limbs of individuals with amputations or spinal cord injuries. As technology development aims for long-term independent use, <strong>can we quantitatively evaluate these percept maps collected over multiple sessions?</strong>
-</p>
+<!-- {{< figure src="/images/example.jpg" alt="My example image" title="Optional caption" >}} -->
+
+<!-- <div style="display: flex; align-items: center; gap: 20px;"> -->
+
+<div class="flex-row">
+  <div class="image-col">
+    <img src="/Fig_P1-01.png" width="350" class="side-image">
+  </div>
+  <div class="text-col">
+    <p>Electrical stimulation to the nerve, spinal cord, or cortical tissue creates tactile percepts in the missing or paralyzed limbs of individuals with amputations or spinal cord injuries. As technology development aims for long-term independent use, <strong>can we quantitatively evaluate these percept maps collected over multiple sessions?</strong>
+    </p>
+  </div>
 </div>
 
 In this work, I am developing **a computational framework to quantify spatial reliability of percept maps**. To demonstrate **functional use cases**, we are creating a tool that optimizes electrode selection based on user-defined prosthesis grips and percept regions. The techniques created in this work will be generalizable to different sensory stimulation paradigms. \
@@ -31,11 +39,22 @@ In this work, I am developing **a computational framework to quantify spatial re
 ## Understanding cortical responses in artificial sensory systems
 
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<!-- <div style="display: flex; align-items: center; gap: 20px;">
   <img src="/Fig_P2-01.png" alt="alt text" width="350">
   <p>How does the brain respond and adapt to artificial sensory feedback? What neural mechanisms support successful integration of multiple sensory modalities? In this study, we recorded scalp level brain activity (i.e., EEG) when individuals with upper limb amputations received <strong>visual-tactile inputs</strong> and performed <strong>motor movements</strong>.  
 </p>
+</div> -->
+
+<div class="flex-row">
+  <div class="image-col">
+    <img src="/Fig_P2-01.png" width="350" class="side-image">
+  </div>
+  <div class="text-col">
+    <p>How does the brain respond and adapt to artificial sensory feedback? What neural mechanisms support successful integration of multiple sensory modalities? In this study, we recorded scalp level brain activity (i.e., EEG) when individuals with upper limb amputations received <strong>visual-tactile inputs</strong> and performed <strong>motor movements.</strong>
+    </p>
+  </div>
 </div>
+
 
 By **modeling brain activity as dynamic functional networks**, I characterized how large-scale cortical systems adapt to artificial tactile feedback combined with visual and motor cues. This work shows **how the brain adapts to artificial sensory inputs**. Our findings could inform adaptive neural interfaces, human-machine interfaces, and sensory augmentation in human-computer interaction. \
 <small>[Scientific Reports 2022](https://doi.org/10.1038/s41598-022-24368-2) &middot; [''Behind the Paper'' Post](https://communities.springernature.com/posts/regaining-functionality-how-do-amputees-brains-incorporate-sensory-stimulation-and-combine-somatosensory-and-visual-inputs)  &middot; [JNE 2020a](https://doi.org/10.1088%2F1741-2552%2Fab882d) &middot; [JNE 2020b](https://doi.org/10.1088%2F1741-2552%2Fabb861) </small>
