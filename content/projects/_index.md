@@ -12,7 +12,7 @@ hidemeta: true
 ## Summary
 I investigate how humans process and adapt to artificial sensory inputs, with particular emphasis on developing **computational frameworks** and **objective neural (cortical) biomarkers** for next-generation **human-machine interfaces**. My work bridges <u>neuroscience</u>, <u>data science</u>, <u>signal processing</u>, and <u>neural engineering</u> to understand sensory integration and neural adaptation.
 
-My research combines rigorous **experimental design** with **computational modeling of neural data**, building generalizable appraoches that translate neuroscience insights into practical applications. I have published a comprehensive review of sensory integration in neural prostheses ([link](https://rdcu.be/ev4pI)), connecting fundamental neuroscience questions with practical neurotechnology applications.
+My research combines rigorous **experimental design** with **computational modeling of neural data**, building generalizable approaches that translate neuroscience insights into practical applications. I have published a comprehensive review of sensory integration in neural prostheses ([link](https://rdcu.be/ev4pI)), connecting fundamental neuroscience questions with practical neurotechnology applications.
 
 My projects contribute to advancing neural prostheses, brain-computer interfaces, objective biomarker development, and human-computer interaction through both methodological innovation and fundamental scientific discovery.
 
