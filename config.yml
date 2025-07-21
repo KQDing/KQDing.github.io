@@ -55,10 +55,11 @@ params:
           title: Keqin 'Catherine' Ding
           subtitle: "
             I am a PhD candidate in Biomedical Engineering at Johns Hopkins University, advised by Dr. [<u>Nitish Thakor</u>](https://www.bme.jhu.edu/people/faculty/nitish-v-thakor/) (<em>expected graduation: 12/2025</em>). 
-            I specialize in **neural signal analysis**, **computational modeling**, and **network-based methods** to study sensory neural prostheses.
+            I develop **computational frameworks for neural interfaces** that combine neural signal analysis, computational modeling, and network-based methods to study sensory neural prostheses.
             <br><br>
-            My research integrates techniques from **data science**, **network analysis**, and **neuroscience** to understand how the brain adapts to artificial sensory inputs and quantify the spatial reliability of neural stimulation percept maps.
-            My work supports advancements in <u>brain-computer interfaces</u>, <u>neuromodulation</u>, <u>human-machine interaction</u>, and <u>human-centered technologies</u>.
+            My research focuses on two key areas that address critical challenges in neural interface development: 1) characterizing how the brain adapts to artificial sensory inputs, and 2) quantifying the spatial reliability of neural stimulation percept maps.
+            <br><br>
+            My work combines experimental and computational approaches that inform advances in brain-computer interfaces, neuromodulation, human-machine interaction, and human-centered technologies.
             "
           imageUrl: "Ding_Profile.jpg"
           imageWidth: 160
