@@ -66,7 +66,7 @@ By **modeling brain activity as dynamic functional networks**, I characterized h
 Current clinical assessments of pain rely on subjective patient reports, making it difficult to deliver mechanistic-based personalized treatment. In chronic pain, central sensitization describes the increased responsiveness in the central nervous system to sensory inputs. 
 Understanding neural features of central sensitization could unlock new approaches for monitoring pathological pain states. 
 <!-- through brain-computer interfaces. -->
-I investigated whether EEG signatures could objectively quantify central sensitization. By delivering controlled stimulation to chronic pain patients and healthy individuals, we identified cortical indicators that distinguish between these individuals. \
+In collaboration with clinicians, we investigated whether EEG signatures could objectively quantify central sensitization. By delivering controlled stimulation to chronic pain patients and healthy individuals, we identified cortical indicators that distinguish between these individuals. \
 <small> [JNE 2024](https://iopscience.iop.org/article/10.1088/1741-2552/ad995d/meta)</small><br><br/>
 
 
@@ -79,5 +79,5 @@ Does increased immersion enhance motor imagery training? We compared cortical re
 <!-- by revealing how different cue modalities influence motor simulation processes. -->
 
 ### Network analysis of visual cortex dynamics
-I applied network analysis methods to characterize dynamic connectivity patterns in calcium imaging data from mouse visual cortex. This work demonstrates how network-based approaches can reveal large-scale neuronal dynamics across different cell types, with applications for understanding cortical circuit organization.
+I applied network analysis methods to characterize dynamic connectivity patterns in calcium imaging data from mouse visual cortex in collaboration with neuroscientists. This work demonstrates how network-based approaches can reveal large-scale neuronal dynamics across different cell types, with applications for understanding cortical circuit organization.
 
