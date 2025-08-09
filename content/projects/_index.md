@@ -34,7 +34,7 @@ My projects contribute to advancing neural prostheses, brain-computer interfaces
 </div>
 
 In this work, I am developing **a computational framework to quantify spatial reliability of percept maps**. To demonstrate **functional use cases**, we are creating a tool that optimizes electrode selection based on user-defined prosthesis grips and percept regions. The techniques created in this work will be generalizable to different sensory stimulation paradigms. \
-<small> [Abstract](Ding_BCI2025.pdf)</small>
+<!-- <small> [Abstract](Ding_BCI2025.pdf)</small> -->
 
 ## Understanding cortical responses in artificial sensory systems
 
