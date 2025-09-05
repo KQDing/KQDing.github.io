@@ -83,8 +83,8 @@ params:
               # url: 
 
     socialIcons:
-        # - name: CV
-        #   url: Ding_CV.pdf
+        - name: CV
+          url: Ding_CV_web.pdf
         # - name: Email
           # url: mailto:
         # - name: Location
